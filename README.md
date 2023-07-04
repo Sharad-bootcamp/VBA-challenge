@@ -121,6 +121,16 @@ Sub max_min_greatest_Value_2020()
     
     lastrow = Cells(Rows.Count, 1).End(xlUp).Row
     For i = 2 To lastrow
+
+      'Headers
+    
+    Range("Q2").Value = ("Greatest % increase")
+    Range("Q3").Value = ("Greatest % decrease")
+    Range("Q4").Value = ("Greatest Total Volume")
+    Range("R1").Value = ("Ticker")
+    Range("S1").Value = ("Value")
+    
+    'Calculating values
     
     Range("S2") = WorksheetFunction.Max(Range("K2:K3001"))
     Range("S3") = WorksheetFunction.Min(Range("K2:K3001"))
