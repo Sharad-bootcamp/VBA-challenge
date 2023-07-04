@@ -10,8 +10,9 @@ Support Microsoft -
         https://support.microsoft.com/en-us/topic/macro-to-loop-through-all-worksheets-in-a-workbook-feef14e3-97cf-00e2-538b-5da40186e2b0
 
 Stack Overview
-     https://stackoverflow.com/questions/51977446/vba-find-highest-value-in-a-column-c-and-return-its-value-and-the-adjacent-ce
-     https://stackoverflow.com/questions/42633273/finding-max-of-a-column-in-vba
+     A --  https://stackoverflow.com/questions/51977446/vba-find-highest-value-in-a-column-c-and-return-its-value-and-the-adjacent-ce
+     
+     B  --  https://stackoverflow.com/questions/42633273/finding-max-of-a-column-in-vba
      
 
 Slack Support in uploading github -
