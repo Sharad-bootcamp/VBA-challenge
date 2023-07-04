@@ -140,11 +140,11 @@ Sub max_min_greatest_Value_2018()
 
   'Headers
     
+    Range("R1").Value = ("Ticker")
+    Range("S1").Value = ("Value")
     Range("Q2").Value = ("Greatest % increase")
     Range("Q3").Value = ("Greatest % decrease")
     Range("Q4").Value = ("Greatest Total Volume")
-    Range("R1").Value = ("Ticker")
-    Range("S1").Value = ("Value")
     
     'Calculating values
     
