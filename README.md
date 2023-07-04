@@ -11,6 +11,8 @@ Support Microsoft -
 
 Stack Overview
      https://stackoverflow.com/questions/51977446/vba-find-highest-value-in-a-column-c-and-return-its-value-and-the-adjacent-ce
+     https://stackoverflow.com/questions/42633273/finding-max-of-a-column-in-vba
+     
 
 Slack Support in uploading github -
         #ask-your-classmates channel
